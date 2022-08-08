@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @areons
+- 👀 I’m interested in Python, Julia, Java, Javascript, C#, C++
+- 🌱 I’m currently learning all the staff because I came from another area
+- 💞️ I’m looking to collaborate on everything I could possibly do
+- 📫 If you want to contact me, just send a message here

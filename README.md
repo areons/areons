@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇧🇷 Estudante de Análise e Desenvolvimento de Softwares.
+🇧🇷 Estudante de Análise e Desenvolvimento de Softwares.<br>
 🇺🇸 Studying Systems Analysis and Development.
 
 
